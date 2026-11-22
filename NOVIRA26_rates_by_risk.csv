@@ -1,0 +1,7 @@
+baseline_risk,treatment,hospitalized_percent
+High,AVX-7,51.260504201680675
+High,Standard care,68.62745098039215
+Low,AVX-7,2.6315789473684212
+Low,Standard care,9.12106135986733
+Moderate,AVX-7,16.549295774647888
+Moderate,Standard care,29.123711340206185
